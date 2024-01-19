@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+home-assistant-desktop
+# Home Assistant Desktop
 
-Based on "ABC" at https://www.abc.com/
+Based on "Official Nabu Casa Home Assistant Desktop App" at https://apps.microsoft.com/detail/XP8JNQ9DZ46VZ5?hl=en-US&gl=US
+
+
 
 ## 100 - Introduction
 
