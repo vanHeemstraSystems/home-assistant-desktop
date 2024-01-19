@@ -5,6 +5,8 @@ Based on "Official Nabu Casa Home Assistant Desktop App" at https://apps.microso
 
 Based on Google Play - Home Assistant" at https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&hl=en_US and https://github.com/home-assistant/android/releases/latest
 
+Based on "Home Assistant for Apple platforms" at https://github.com/home-assistant/iOS
+
 Based on "Enhance Your Home Assistant Experience with Desktop Apps on Windows, Mac & Linux" at https://www.youtube.com/watch?v=vdll67ecDOE
 
 
